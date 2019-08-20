@@ -38,5 +38,11 @@ Build a pipeline that can be used within a web or mobile app to process real-wor
 Concepts
 - Convolutional Neural Networks (CNN from scratch and transfer learning)
 
+## 5_quadcopter
+Design an agent to fly a quadcopter and then train it using a reinforcement learnign algorithm.
+
+Concepts
+- Deep Deterministic Policy Gradients (DDPG) - actor-crtic method
+
 ## practice_projects
 Mini-projects completed through course lectures
